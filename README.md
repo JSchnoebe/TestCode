@@ -2,6 +2,7 @@
 Test Your Code
 
 >dragon
+>cat
 >
 
 
