@@ -1,7 +1,8 @@
 # TestCode
 Test Your Code
-
-'dragon'
+dog&dragon
+& dragon
+&dragon
 
 
 
